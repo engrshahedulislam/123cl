@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    background-color: rgb(240, 239, 239);
+    width:100px
+    height: 100px;
+    text-align: center; 
+       
+}
+td{
+    width: 400px; 
+}
+p{
+    font-size: 30px;
+    background-color: rgb(244, 245, 244);
+    color: red;
+    text-align: justify;
+    text-align-last: justify;
+    text-decoration: justify;
+    text-decoration-style: none;
+    text-decoration-color:red;
+    text-transform:none;
+    line-height: none;
+    word-spacing: none;
+    letter-spacing: none;
+    font-family:'Arvo', serif;
+    font-weight: 20px;
+}
